@@ -118,3 +118,4 @@ def make_tooltip(row):
     if isinstance(row.get("photo_url"), str):
         html += f"<img src='{row['photo_url']}' width='150'><br>"
     html += f"<i>報告者: {row['name']}</i>"
+
