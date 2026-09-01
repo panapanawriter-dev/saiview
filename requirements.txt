@@ -1,0 +1,6 @@
+streamlit
+supabase
+pandas
+pydeck
+pillow
+streamlit-js-eval
